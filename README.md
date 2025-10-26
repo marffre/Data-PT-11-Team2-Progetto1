@@ -18,7 +18,7 @@ Analisi comparativa sull’aspettativa di vita nei diversi Paesi, con focus sull
 | Cristiano | ... |
 
 ---
-
+pro
 ##  Obiettivi del progetto
 1. Analizzare i fattori che influenzano l’aspettativa di vita (spesa sanitaria, PIL, istruzione, status economico).
 2. Metrica 1: Relazione tra PIL e Aspettativa di vita
